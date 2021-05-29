@@ -1,0 +1,28 @@
+GetNextBusIntent when is the next bus
+GetNextBusIntent when the next bus arrives
+GetNextBusIntent when the next bus arrives on the {RouteColor} line
+GetNextBusIntent when the next bus arrives on the {RouteColor} line at {StopName}
+GetNextBusIntent when the next bus arrives on the {RouteColor} route
+GetNextBusIntent when the next bus arrives on the {RouteColor} route at {StopName}
+GetNextBusIntent when the next bus arrives at {StopName}
+GetNextBusIntent when the next bus arrives at {StopName} on the {RouteColor} line
+GetNextBusIntent when the next bus arrives at {StopName} on the {RouteColor} route
+GetNextBusIntent when the next bus is arriving on the {RouteColor} line at {StopName}
+GetNextBusIntent when the next bus is arriving on the {RouteColor} route at {StopName}
+GetNextBusIntent when the next bus is arriving on the {RouteColor} line
+GetNextBusIntent when the next bus is arriving on the {RouteColor} route
+GetNextBusIntent get the next bus
+GetNextBusIntent get the next bus arrival time
+GetNextBusIntent get the next bus's arrival time
+GetNextBusIntent get the next bus for {StopName} on the {RouteColor} line
+GetNextBusIntent get the next bus for {StopName} on the {RouteColor} route
+GetNextBusIntent get the next bus for {StopName}
+GetNextBusIntent get the next bus for {RouteColor}
+GetNextBusIntent get the next bus's arrival time for {StopName} on the {RouteColor} line
+GetNextBusIntent get the next bus's arrival time for {StopName} on the {RouteColor} route
+GetNextBusIntent get the next bus's arrival time for the {RouteColor} line at {StopName}
+GetNextBusIntent get the next bus's arrival time for the {RouteColor} route at {StopName}
+GetNextBusIntent get the next bus's arrival time for {StopName}
+GetNextBusIntent the {RouteColor} line
+GetNextBusIntent the {RouteColor} route
+GetNextBusIntent {StopName}

@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "GetNextBusIntent",
+      "slots":[
+        {
+          "name":"RouteColor",
+          "type": "ROUTE_COLOR_TYPE"
+        },
+        {
+          "name": "StopName",
+          "type": "STOP_NAME_TYPE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
